@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../../../Downloads/BonieAbell.jpg</file>
+        <file>../../../Downloads/calendar.jpeg</file>
+        <file>../../../Downloads/ClaudeAscencio.jpeg</file>
+        <file>../../../Downloads/clock.png</file>
+        <file>../../../Downloads/dashboard.png</file>
+        <file>../../../Downloads/EdwardAlcorn.jpg</file>
+        <file>../../../Downloads/LanceArtman.jpeg</file>
+        <file>../../../Downloads/LeftToRight.png</file>
+        <file>../../../Downloads/LisaAlen.jpeg</file>
+        <file>../../../Downloads/orbits.png</file>
+        <file>../../../Downloads/setting.png</file>
+        <file>../../../Downloads/user.png</file>
+        <file>../../../Downloads/ZacharyAdam.jpeg</file>
+        <file>../../../Downloads/buttonBlue.jpeg</file>
+    </qresource>
+</RCC>
